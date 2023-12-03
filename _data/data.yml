@@ -48,7 +48,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    As a Mechanical Engineer and Full Stack Developer, I blend deep technical expertise with innovative software solutions to drive advancements in the field. Leading as CEO at Sahab Dev, my approach combines strategic business acumen with hands-on project leadership, exemplified in projects like Calindus and contributions to MechPy. My career is a testament to my commitment to integrating engineering excellence with cutting-edge technology, making significant impacts in both corporate and open-source domains.
+    I'm a Mechanical Engineer and Full Stack Developer, known for combining engineering skills with software development to create innovative solutions. As the CEO of Sahab Dev, I lead projects and make important business decisions. I enjoy working on both corporate projects like Calindus and contributing to open-source software like MechPy, always aiming to merge technical know-how with the latest technology trends.
 education:
   title: Education
   info:
@@ -120,7 +120,6 @@ projects:
     - title: Calindus
       link: "https://sahab-dev.com/"
       tagline: "Custom ERP for Moroccan Industries."
-
 
 oss:
   title: OSS Contributions
