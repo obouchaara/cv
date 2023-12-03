@@ -49,9 +49,15 @@ career-profile:
   title: Career Profile
   summary: |
     I'm a Mechanical Engineer and Full Stack Developer, known for combining engineering skills with software development to create innovative solutions. As the CEO of Sahab Dev, I lead projects and make important business decisions. I enjoy working on both corporate projects like Calindus and contributing to open-source software like MechPy, always aiming to merge technical know-how with the latest technology trends.
+
 education:
   title: Education
   info:
+    - degree: PhD Candidate in Mechanical Engineering
+      university: ENSAM Rabat / ENSIAS
+      time: 2023 - Present
+      details: |
+        Conducting in-depth research on the creep and relaxation of Shrink-fitting assemblies in functionally graded materials (FGMs).
     - degree: M.Eng in Mechanical Engineering
       university: Polytech Lille
       time: 2018 - 2021
